@@ -1,0 +1,23 @@
+ul.top-menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #313131;
+}
+
+ul.top-menu li {
+    float: left;
+}
+
+ul.top-menu li a {
+    display: block;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 15px 15px;
+    text-decoration: none;
+}
+
+ul.top-menu li a:hover {
+    background-color: #111;
+}
